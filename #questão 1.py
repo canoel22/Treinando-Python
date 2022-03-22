@@ -7,3 +7,5 @@ minutos = segundos_resto // 60
 segundos_resto = segundos_resto % 60
 
 print (horas, " horas, ", minutos, "minutos e ", segundos_resto, " segundos ")
+
+# transforma segundos em horas e minutos
